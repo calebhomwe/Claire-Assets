@@ -8,10 +8,10 @@ Setup date: 2026-07-08
 | 00_LICENSES/ | License log for every pack |
 | 01_RAW_DOWNLOADS/ | Original ZIP files (Kenney downloaded, Quaternius manual) |
 | 02_EXTRACTED/ | Extracted packs (all formats) |
-| 03_ROBLOX_READY/ | **Import-ready GLB files sorted by category** |
-| 04_BLENDER_CLEANUP/ | Source blends + exported FBX for custom assets |
+| 03_ROBLOX_READY/ | **Import-ready GLB files sorted by category** (Kenney GLBs reference `Textures/colormap.png` next to them; keep that folder when importing) |
+| 04_BLENDER_CLEANUP/ | Source blends + exported FBX for custom assets (planned; not created yet) |
 | 05_ROBLOX_IMPORT_NOTES/ | Import checklist, catalog, optimization notes |
-| _REVIEW_LICENSE_BEFORE_USE/ | Anything with unclear license — do not use until reviewed |
+| _REVIEW_LICENSE_BEFORE_USE/ | Anything with unclear license — do not use until reviewed (none so far) |
 
 ## DOWNLOADED & READY NOW (Kenney — all CC0)
 - city-kit-commercial: 41 GLB building/city pieces
